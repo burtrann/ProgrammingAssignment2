@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## Write a short comment describing this function
+# Write a short comment describing this function
 # If you create an object using the makeCacheMatrix function, 
 # you can then utilize the cacheSolve function to calculate the inverse of that matrix.
 
